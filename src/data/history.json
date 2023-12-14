@@ -1,0 +1,10 @@
+[
+    {
+      "role": "Software Engineer Intern",
+      "organisation": "Sonarverse",
+      "startDate": "Sept, 2022",
+      "endDate": "June, 2023",
+      "experiences": ["Designed landing page with React", "Worked on Python Flask REST API","Implemented CRUD components"],
+      "imageSrc": "history/sonarverse.jpg"
+    }
+  ]
