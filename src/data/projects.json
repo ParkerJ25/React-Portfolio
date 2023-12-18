@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Surf or Sleep",
+      "imageSrc": "projects/SurforSleep.png",
+      "description": "A Python app providing personalized surfing condition updates via email, helping users decide the best time to hit the waves.",
+      "skills": ["Python", "HTML", "CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/ParkerJ25/Surf-or-Sleep"
+    },
+    {
+      "title": "Hungry Helpers",
+      "imageSrc": "projects/HungryHelpers.png",
+      "description": "A food planner web application that allows you to plan your meals",
+      "skills": ["React", "HTML", "CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/ParkerJ25/Hungry_Helpers"
+    }
+  ]
