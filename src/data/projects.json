@@ -4,7 +4,6 @@
       "imageSrc": "projects/SurforSleep.png",
       "description": "A Python app providing personalized surfing condition updates via email, helping users decide the best time to hit the waves.",
       "skills": ["Python", "HTML", "CSS"],
-      "demo": "https://www.example.com",
       "source": "https://github.com/ParkerJ25/Surf-or-Sleep"
     },
     {
@@ -12,7 +11,13 @@
       "imageSrc": "projects/HungryHelpers.png",
       "description": "A food planner web application that allows you to plan your meals",
       "skills": ["React", "HTML", "CSS"],
-      "demo": "https://www.example.com",
       "source": "https://github.com/ParkerJ25/Hungry_Helpers"
+    },
+    {
+      "title": "Live Chat Room",
+      "imageSrc": "projects/project.png",
+      "description": "Create a live chat room with a secure 4-digit code for private conversations, connecting friends seamlessly in real-time communication.",
+      "skills": ["Python", "HTML", "CSS"],
+      "source": "https://github.com/ParkerJ25/Live-Chat-Room"
     }
   ]
